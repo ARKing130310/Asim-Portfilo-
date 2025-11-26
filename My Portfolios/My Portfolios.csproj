@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Include="Views\Home\Index.html" />
+    <None Include="Views\Home\Index.cshtml" />
   </ItemGroup>
 
   <ItemGroup>
